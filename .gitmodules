@@ -1,3 +1,6 @@
 [submodule "desafio-conceitos-nodejs/solution"]
 	path = desafio-conceitos-nodejs/solution
 	url = https://github.com/valdemirfilho/gostack-template-conceitos-nodejs
+[submodule "desafio-conceitos-reactjs/solution"]
+	path = desafio-conceitos-reactjs/solution
+	url = https://github.com/valdemirfilho/gostack-template-conceitos-reactjs
