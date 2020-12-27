@@ -4,3 +4,6 @@
 [submodule "desafio-conceitos-reactjs/solution"]
 	path = desafio-conceitos-reactjs/solution
 	url = https://github.com/valdemirfilho/gostack-template-conceitos-reactjs
+[submodule "desafio-conceitos-react-native/solution"]
+	path = desafio-conceitos-react-native/solution
+	url = https://github.com/valdemirfilho/gostack-template-conceitos-react-native
