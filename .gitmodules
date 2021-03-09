@@ -7,3 +7,6 @@
 [submodule "desafio-conceitos-react-native/solution"]
 	path = desafio-conceitos-react-native/solution
 	url = https://github.com/valdemirfilho/gostack-template-conceitos-react-native
+[submodule "desafio-fundamentos-nodejs/solution"]
+	path = desafio-fundamentos-nodejs/solution
+	url = https://github.com/valdemirfilho/gostack-template-fundamentos-node
